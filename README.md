@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Rickelmyn Ruscas
+# 👩🏻‍💻 Rickelmyn Ruescas
 
 **`Desenvolvedor`**
 
