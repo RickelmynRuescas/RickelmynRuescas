@@ -4,9 +4,10 @@
 
 Acadêmico de Engenharia de Software, com sólido conhecimento teórico e habilidades práticas em desenvolvimento, integração de sistemas e análise de desempenho. Apresento-me como uma pessoa dinâmica, flexível interativa e disciplinada nas tarefas, com forte comprometimento responsabilidade e pontualidade. Tenho excelente relacionamento interpessoal e facilidade de comunicação com diferentes perfis profissionais.
 
-<a href="www.linkedin.com/in/rickelmyn-ruescas-5aaba7308">
- <img  align="center" width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/Rickelmyn-Ruescas/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
