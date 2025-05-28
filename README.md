@@ -7,7 +7,10 @@ Acadêmico de Engenharia de Software, com sólido conhecimento teórico e habili
 <p align="center">
   <a href="https://www.linkedin.com/in/rickelmyn-ruescas-5aaba7308/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+  
+<p align="left">
+    </a> 
+    <a href="https://github.com/RickelmynRuescas?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
