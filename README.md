@@ -28,7 +28,7 @@ Acadêmico de Engenharia de Software, com sólido conhecimento teórico e habili
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens de Conheimento
 
 <img 
     align="left" 
