@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Acadêmico de Engenharia de Software, com sólido conhecimento teórico e habilidades práticas em desenvolvimento, integração de sistemas e análise de desempenho. Apresento-me como uma pessoa dinâmica, flexível interativa e disciplinada nas tarefas, com forte comprometimento responsabilidade e pontualidade. Tenho excelente relacionamento interpessoal e facilidade de comunicação com diferentes perfis profissionais.
+Acadêmico de Engenharia de Software, com sólido conhecimento teórico e habilidades práticas em desenvolvimento, integração de sistemas e análise de desempenho. Apresento-me como uma pessoa dinâmica, flexível, interativa e disciplinada nas tarefas, com forte comprometimento, responsabilidade e pontualidade. Tenho excelente relacionamento interpessoal e facilidade de comunicação com diferentes perfis profissionais, estou no início da minha trajetória profissional e busco uma oportunidade de estágio para aplicar meus conhecimentos, desenvolver minhas habilidades práticas e contribuir para o crescimento da equipe e da empresa.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rickelmyn-ruescas-5aaba7308/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
