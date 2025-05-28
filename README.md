@@ -31,7 +31,7 @@ Me chamo Rickelmyn de Souza Ruescas, tenho 19 anos e sou natural de São Paulo. 
     title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg](https://www.google.com/imgres?q=icone%20Java&imgurl=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F512%2Fjava-coffee-cup-logo.png&imgrefurl=https%3A%2F%2Ficons8.com.br%2Ficons%2Fset%2Fjava&docid=8oObgP3Zrag4cM&tbnid=IroLEPKbHaLHkM&vet=12ahUKEwioofXlwsaNAxWbpZUCHRd5OisQM3oECBwQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwioofXlwsaNAxWbpZUCHRd5OisQM3oECBwQAA)" 
 />
 <img 
     align="left" 
